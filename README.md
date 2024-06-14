@@ -1,4 +1,9 @@
 ![](https://github.com/Mr-SuperInsane/NoteClient/blob/main/docs/img/header.png)
+<div align="center">Note Client</div>
+
+---
+
+## Usage
 
 Note Client can automate the posting of articles on note. The content of the articles is written using Markdown notation.  
 
@@ -61,8 +66,8 @@ print(note.create_article(title=TITLE, file_name=CONTENT_PATH, input_tag_list=TA
 
 
 ### Sample
-![Sample](sample.png)
+![](https://github.com/Mr-SuperInsane/NoteClient/blob/main/docs/img/sample.png)
 
 ## Help
 
-For inquiries regarding Note Client, please contact [info@mr-insane.net](info@mr-insane.net)
+If you would like to make an enquiry about NoteClient, click [here](https://gist.github.com/Mr-SuperInsane/e9711c7f8b2722b0a03c9922e3f2ecdc).

@@ -1,4 +1,4 @@
-![](https://mr-insane.net/wp-content/uploads/2023/10/NoteClient.png)
+![](https://github.com/Mr-SuperInsane/NoteClient/blob/main/docs/img/header.png)
 
 Note Client can automate the posting of articles on note. The content of the articles is written using Markdown notation.  
 

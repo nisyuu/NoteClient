@@ -3,7 +3,7 @@ import note_client
 
 setup(
     name='NoteClient',
-    version='0.1.3',
+    version='0.2.0',
     packages=find_packages(),
     install_requires=[
         'selenium>=4.12.0',
